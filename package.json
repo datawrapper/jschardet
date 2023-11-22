@@ -1,6 +1,6 @@
 {
     "name": "@datawrapper/jschardet",
-    "version": "3.0.0",
+    "version": "3.0.1-0",
     "description": "Character encoding auto-detection in JavaScript (port of python's chardet)",
     "author": "António Afonso",
     "license": "LGPL-2.1+",
