@@ -1,5 +1,5 @@
 {
-    "name": "jschardet",
+    "name": "@datawrapper/jschardet",
     "version": "3.0.0",
     "description": "Character encoding auto-detection in JavaScript (port of python's chardet)",
     "author": "António Afonso",
@@ -10,7 +10,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/aadsm/jschardet.git"
+        "url": "https://github.com/datawrapper/jschardet.git"
     },
     "types": "index.d.ts",
     "directories": {
